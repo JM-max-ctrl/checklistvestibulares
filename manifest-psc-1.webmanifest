@@ -1,0 +1,27 @@
+{
+ "id": "./checklist_psc_1etapa_2027.html",
+ "name": "Checklist PSC 1ª Etapa",
+ "short_name": "PSC 1ª Etapa",
+ "description": "Checklist de habilidades para a prova",
+ "start_url": "./checklist_psc_1etapa_2027.html",
+ "scope": "./checklist_psc_1etapa_2027.html",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "pt-BR",
+ "background_color": "#eef0f7",
+ "theme_color": "#4f46e5",
+ "icons": [
+  {
+   "src": "icons/psc-1-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icons/psc-1-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
