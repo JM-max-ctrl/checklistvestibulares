@@ -1,0 +1,27 @@
+{
+ "id": "./checklist_enem.html",
+ "name": "Checklist ENEM 2026",
+ "short_name": "ENEM",
+ "description": "Checklist de habilidades para o ENEM",
+ "start_url": "./checklist_enem.html",
+ "scope": "./checklist_enem.html",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "pt-BR",
+ "background_color": "#eef0f7",
+ "theme_color": "#0d9488",
+ "icons": [
+  {
+   "src": "icons/enem-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icons/enem-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
